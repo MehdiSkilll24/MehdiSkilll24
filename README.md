@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehdiSkilll24.
-- 👀 I’m interested in learning coding languages.
-- 🌱 I’m currently learning Python and C.
+- 👀 I’m interested in learning. Growth is my signature goal.
+- 🌱 I’m currently specializing in AI/ML
 - 💞️ I’m looking to collaborate anywhere.
 - 📫 My email : mehdi.raddassi@gmail.com
 - ⚡ My MOTO: Obsession beats talent.
